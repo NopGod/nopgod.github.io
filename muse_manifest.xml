@@ -1,0 +1,106 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nopgod.github.io" resolutions="1x" timestamp="1602551073618">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="385237022" ref="index"/>
+    <file name="nomq_index.css" crc="3982972261" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="index">
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4179919955" mt="1602550642000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1602550642000"/>
+      </folder>
+      <folder name="images">
+        <file name="bk.jpg" crc="4203849451" mt="1602550642000"/>
+        <file name="bn.png" crc="168442003" mt="1602550642000"/>
+        <file name="cap.png" crc="3801207774" mt="1602550642000"/>
+        <file name="cv.png" crc="19813472" mt="1602550642000"/>
+        <file name="gg.png" crc="4285618911" mt="1602550642000"/>
+        <file name="gg2.png" crc="3986973381" mt="1602550642000"/>
+        <file name="m3.png" crc="100959792" mt="1602550642000"/>
+        <file name="mm.png" crc="170236929" mt="1602550642000"/>
+        <file name="nn.png" crc="4151459463" mt="1602550642000"/>
+        <file name="Poster.png" crc="4021937769" mt="1602550642000"/>
+        <file name="sd.png" crc="392535316" mt="1602550642000"/>
+        <file name="vv.png" crc="52887539" mt="1602550642000"/>
+        <file name="xc.png" crc="4140839724" mt="1602550642000"/>
+      </folder>
+      <file name="index_edge.js" crc="4051009527" mt="1602550642000"/>
+      <file name="index_edgeActions.js" crc="171384016" mt="1602550642000"/>
+      <file name="index_edgePreload.js" crc="436759714" mt="1602550642000"/>
+      <file name="index.html" crc="300682300" mt="1602550642000"/>
+    </folder>
+    <folder name="gotov">
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4179919955" mt="1536076773000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1536076773000"/>
+      </folder>
+      <folder name="images">
+        <file name="1.png" crc="398263166" mt="1536076773000"/>
+        <file name="2.png" crc="4191588649" mt="1536076773000"/>
+        <file name="3.png" crc="4050858067" mt="1536076773000"/>
+        <file name="fon.png" crc="4034986430" mt="1536076773000"/>
+        <file name="girl.png" crc="396370152" mt="1536076773000"/>
+        <file name="icon.png" crc="3860069186" mt="1536076773000"/>
+        <file name="Poster.png" crc="3860069186" mt="1536076773000"/>
+        <file name="text.png" crc="4083729986" mt="1536076773000"/>
+      </folder>
+      <folder name="banner_test_-assets">
+        <file name="text.png" crc="101105957" mt="1536076773000"/>
+      </folder>
+      <file name="gotov_edge.js" crc="4109351990" mt="1536076773000"/>
+      <file name="gotov_edgeActions.js" crc="4204617263" mt="1536076773000"/>
+      <file name="gotov_edgePreload.js" crc="250715006" mt="1536076773000"/>
+      <file name="gotov.html" crc="4152439877" mt="1536076773000"/>
+    </folder>
+    <folder name="den">
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4179919955" mt="1602549818000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1602549818000"/>
+      </folder>
+      <folder name="images">
+        <file name="16plus.png" crc="166540760" mt="1602549818000"/>
+        <file name="16plus2.png" crc="166540760" mt="1602549818000"/>
+        <file name="anon.png" crc="31850702" mt="1602549818000"/>
+        <file name="anon2.png" crc="512734808" mt="1602549818000"/>
+        <file name="blue8.png" crc="86426087" mt="1602549818000"/>
+        <file name="dengi.png" crc="3880910709" mt="1602549818000"/>
+        <file name="icon.png" crc="3917903790" mt="1602549818000"/>
+        <file name="ili.png" crc="3765753859" mt="1602549818000"/>
+        <file name="ili2.png" crc="4073325809" mt="1602549818000"/>
+        <file name="ili3.png" crc="4015622119" mt="1602549818000"/>
+        <file name="logo.png" crc="4038613381" mt="1602549818000"/>
+        <file name="ly.png" crc="242715501" mt="1602549818000"/>
+        <file name="ly2.png" crc="423223656" mt="1602549818000"/>
+        <file name="mon.png" crc="148630259" mt="1602549818000"/>
+        <file name="mon2.png" crc="81707635" mt="1602549818000"/>
+        <file name="plash.png" crc="123931770" mt="1602549818000"/>
+        <file name="plus.png" crc="3953796993" mt="1602549818000"/>
+        <file name="Poster.png" crc="3917903790" mt="1602549818000"/>
+        <file name="pozor.png" crc="81435144" mt="1602549818000"/>
+        <file name="red2.png" crc="363711631" mt="1602549818000"/>
+        <file name="text.png" crc="258696517" mt="1602549818000"/>
+        <file name="text2.png" crc="3912076022" mt="1602549818000"/>
+        <file name="text3.png" crc="3912076022" mt="1602549818000"/>
+        <file name="tnt.png" crc="317529476" mt="1602549818000"/>
+        <file name="tnt2.png" crc="317529476" mt="1602549818000"/>
+        <file name="vitya2.png" crc="173875419" mt="1602549818000"/>
+      </folder>
+      <file name="den_edge.js" crc="4200981841" mt="1602549818000"/>
+      <file name="den_edgeActions.js" crc="3777008071" mt="1602549818000"/>
+      <file name="den_edgePreload.js" crc="4053431791" mt="1602549818000"/>
+      <file name="den.html" crc="4224887549" mt="1602549818000"/>
+    </folder>
+    <file name="gotov.an" crc="147890369" seo="true" mt="1536080097000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3898752011" seo="true" mt="1602550935787" redirect="true"/>
+</manifest>
