@@ -9,4 +9,10 @@
       <image:loc>http://nopgod.github.io/images/untitled-1sss.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://nopgod.github.io/assets/cv.pdf</loc>
+    <lastmod>2020-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

@@ -1,8 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nopgod.github.io" resolutions="1x" timestamp="1605496518133">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nopgod.github.io" resolutions="1x" timestamp="1605497291926">
+  <folder name="assets">
+    <file name="cv.pdf" crc="46013256" seo="true" mt="1605496760000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="134950902" ref="index"/>
-    <file name="iefonts_index.css" crc="322942940" ref="index"/>
+    <file name="index.css" crc="3814454640" ref="index"/>
+    <file name="iefonts_index.css" crc="126995356" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,5 +20,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4229546757" seo="true" mt="1605496504376" redirect="true"/>
+  <file name="index.html" crc="290741548" seo="true" mt="1605497280695" redirect="true"/>
 </manifest>
